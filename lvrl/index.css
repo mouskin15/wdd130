@@ -1,0 +1,11 @@
+@import url('@import url(https://fonts.googleapis.com/css2?family=Lobster=Nuosu+sil&display=swap');
+
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
