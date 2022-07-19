@@ -25,12 +25,12 @@ a {
     color: white;
     padding: 25px
 }
-.stud-msg h1, .mic-msg h4 {
+.mic-msg h1, .mic-msg h4 {
     text-align: center;
 }
-/* .piano-msg h2, .piano-msg h5 { 
+.piano-msg h2, .piano-msg h5 { 
     text-align: center;
-}*/
+}
 .button-box {
     text-align:center; 
 }
@@ -65,7 +65,7 @@ nav a:hover {
     color: #ADB5BD;
     text-decoration: none;
 }
-.signup, .join {
+/*.signup, .join {
     margin-bottom: 100px;
     background-color: #ADB5BD;
     color: #6C757D;
@@ -77,7 +77,7 @@ nav a:hover {
 .signup:hover, .join:hover{
     background-color: #212529;
     color: #6C757D;
-}
+}*/
 footer {
     background-color: #ADB5BD;
     color: #F8F9FA;
@@ -96,15 +96,15 @@ footer {
 h4 {
     color:#212529;
 }
-/*.piano-img{
+.piano-img{
     margin-top:-500px;
-}*/
-.stud-msg p {
+}
+.mic-msg p {
     color: #212529;
 }
-/*.piano-msg p {
+.piano-msg p {
     color:#212529;
-}*/
+}
 footer h3 {
     color: #212529;
 }
