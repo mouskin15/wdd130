@@ -25,15 +25,15 @@ a {
     color: white;
     padding: 25px
 }
-.mic-msg h1, .mic-msg h4 {
+.team-msg h1, .team-msg h4 {
     text-align: center;
 }
-.piano-msg h2, .piano-msg h5 { 
+.about-msg h2, .about-msg h5 { 
     text-align: center;
 }
-.button-box {
+/*.button-box {
     text-align:center; 
-}
+}*/
 main section {
     text-align: center;
     gap: 0
@@ -87,7 +87,7 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
-.recording-title {
+.team-title {
     color: #F8F9FA;
     font-family: 'Lobster-Regular.ttf', 'NuosuSil-Regular.ttf';
     font-size: 2em;
@@ -96,13 +96,13 @@ footer {
 h4 {
     color:#212529;
 }
-.piano-img{
+.about-img{
     margin-top:-500px;
 }
-.mic-msg p {
+.team-msg p {
     color: #212529;
 }
-.piano-msg p {
+.about-msg p {
     color:#212529;
 }
 footer h3 {
