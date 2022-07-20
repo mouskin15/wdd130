@@ -25,10 +25,10 @@ a {
     color: white;
     padding: 25px
 }
-.team-msg h1, .team-msg h4 {
+.mic-msg h1, .mic-msg h4 {
     text-align: center;
 }
-.about-msg h2, .about-msg h5 { 
+.piano-msg h2, .piano-msg h5 { 
     text-align: center;
 }
 /*.button-box {
@@ -86,9 +86,10 @@ footer {
     display:flex;
     justify-content: space-around;
     align-items: center;
+    gap:  0;
 }
-.team-title {
-    color: #F8F9FA;
+.home-title {
+    color: #212529;
     font-family: 'Lobster-Regular.ttf', 'NuosuSil-Regular.ttf';
     font-size: 2em;
     margin-top: 10px
@@ -96,13 +97,14 @@ footer {
 h4 {
     color:#212529;
 }
-.about-img{
+.piano-img{
     margin-top:-500px;
+    gap: 0;
 }
-.team-msg p {
+.mic-msg p {
     color: #212529;
 }
-.about-msg p {
+.piano-msg p {
     color:#212529;
 }
 footer h3 {
